@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sichem.Sample", "Sichem.Sample\Sichem.Sample.csproj", "{637F45BD-1C85-465C-927A-BB44AE684403}"
 EndProject
@@ -19,10 +19,13 @@ Global
 		{637F45BD-1C85-465C-927A-BB44AE684403}.Release|Any CPU.Build.0 = Release|Any CPU
 		{71352218-91C4-490E-A650-AB17C48D0300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{71352218-91C4-490E-A650-AB17C48D0300}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{71352218-91C4-490E-A650-AB17C48D0300}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{71352218-91C4-490E-A650-AB17C48D0300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71352218-91C4-490E-A650-AB17C48D0300}.Release|Any CPU.ActiveCfg = Release|x64
+		{71352218-91C4-490E-A650-AB17C48D0300}.Release|Any CPU.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E886F34-C940-490B-BC96-02C5D9051651}
 	EndGlobalSection
 EndGlobal
